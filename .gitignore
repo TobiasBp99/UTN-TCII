@@ -1,0 +1,8 @@
+#ignore Directories
+
+
+
+
+#ignore files
+*.ipynb_checkpoints
+
