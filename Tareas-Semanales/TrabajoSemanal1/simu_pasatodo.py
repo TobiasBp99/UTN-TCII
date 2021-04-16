@@ -37,7 +37,7 @@ R1  = 1e3
 R2  = 1e3
 R3  = 1e3
 C   = 1e-6   
-#%%
+#%%Simulaciòn sin normalizar
 wc = - R2/(C*R1*R3)
 wp = 1/(C*R3)
 
@@ -54,8 +54,35 @@ _, axes_hdl = bodePlot(H)
 plt.sca(axes_hdl[0])
 plt.ylim([-1,1])
 
+
+
 plt.gca
 
 pzmap(H)
+
+plt.show()
+
+#%% Simulaciòn normalizada
+norma_w = 1e3   #Valor calculado para normalizar
+
+wc_n = wc/norma_w
+wp_n = wp/norma_w
+
+num_n = np.array([ 1, wc_n ])
+den_n = np.array([ 1, wp_n ])
+
+
+Hn = sig.TransferFunction( num_n , den_n )
+# Graficamos el diagrama de polos y ceros
+# Graficamos la respuesta en frecuencia para el modulo y la fase.
+_, axes_hdl = bodePlot(Hn)
+
+# para que se vea como uno intuye el módulo. Probar comentar las siguientes 2 líneas
+plt.sca(axes_hdl[0])
+plt.ylim([-1,1])
+
+plt.gca
+
+pzmap(Hn)
 
 plt.show()
