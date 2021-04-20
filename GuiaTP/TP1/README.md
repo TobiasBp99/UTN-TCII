@@ -4,7 +4,7 @@
 
 ## índice 📌
 
-*[Ejercico 1](https://nbviewer.jupyter.org/urls/gitlab.frba.utn.edu.ar/tbavassopiizzi/tcii/-/raw/master/GuiaTP/TP1/EJ01/ejercicio1.ipynb)
+* [Ejercico 1](https://nbviewer.jupyter.org/urls/gitlab.frba.utn.edu.ar/tbavassopiizzi/tcii/-/raw/master/GuiaTP/TP1/EJ01/ejercicio1.ipynb)
 
 * [Ejercico 2]()
 
