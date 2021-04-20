@@ -6,23 +6,23 @@
 
 *[Ejercico 1](https://nbviewer.jupyter.org/urls/gitlab.frba.utn.edu.ar/tbavassopiizzi/tcii/-/raw/master/GuiaTP/TP1/EJ01/ejercicio1.ipynb)
 
-*[Ejercico 2]()
+* [Ejercico 2]()
 
-*[Ejercico 3]()
+* [Ejercico 3]()
 
-*[Ejercico 4]()
+* [Ejercico 4]()
 
-*[Ejercico 5]()
+* [Ejercico 5]()
 
-*[Ejercico 6]()
+* [Ejercico 6]()
 
-*[Ejercico 7]()
+* [Ejercico 7]()
 
-*[Ejercico 8]()
+* [Ejercico 8]()
 
-*[Ejercico 9]()
+* [Ejercico 9]()
 
-*[Ejercico 10]()
+* [Ejercico 10]()
 
 
 
