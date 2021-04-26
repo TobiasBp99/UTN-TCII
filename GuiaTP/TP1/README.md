@@ -1,6 +1,6 @@
 # Guia de Ejercicios Nº1 - OPAMP y OTA
 
-[Aquí]() se encontrará la resolución manuscrita de la guía
+[Aquí](https://gitlab.frba.utn.edu.ar/tbavassopiizzi/tcii/-/blob/master/GuiaTP/TP1/TP1_TCII.pdf) se encontrará la resolución manuscrita de la guía
 
 ## índice 📌
 
