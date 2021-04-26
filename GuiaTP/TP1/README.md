@@ -8,7 +8,7 @@
 
 * [Ejercico 2](https://nbviewer.jupyter.org/urls/gitlab.frba.utn.edu.ar/tbavassopiizzi/tcii/-/raw/master/GuiaTP/TP1/EJ02/Ejer2.ipynb)
 
-* [Ejercico 3](https://nbviewer.jupyter.org/urls/gitlab.frba.utn.edu.ar/tbavassopiizzi/tcii/-/raw/master/GuiaTP/TP1/EJ03/Ejer3.ipynb
+* [Ejercico 3](https://nbviewer.jupyter.org/urls/gitlab.frba.utn.edu.ar/tbavassopiizzi/tcii/-/raw/master/GuiaTP/TP1/EJ03/Ejer3.ipynb)
 
 * [Ejercico 4](https://nbviewer.jupyter.org/urls/gitlab.frba.utn.edu.ar/tbavassopiizzi/tcii/-/raw/master/GuiaTP/TP1/EJ04/Ejer4.ipynb)
 
