@@ -10,7 +10,7 @@ import scipy.signal as sig
 import matplotlib as mpl
 from splane import analyze_sys, pretty_print_lti
 import numpy as np
-%matplotlib qt5
+#%matplotlib qt5
 #mpl.rcParams['figure.figsize'] = (15,15)
 
 ###############
@@ -53,10 +53,10 @@ def besselord( omega_p, omega_s, alfa_max, alfa_min, omega_d, max_pc_delay ):
 
 # Plantilla de módulo
 #####################
-alfa_max = 0.5 # dB
-alfa_min = 16 # dB
+alfa_max = 3 # dB
+alfa_min = 20 # dB
 omega_p = 1 # norm omega
-omega_s = 2.65 # norm omega
+omega_s = 2.167 # norm omega
 
 # Plantilla de demora (solo para Bessel)
 #########################################
@@ -69,8 +69,8 @@ max_pc_delay = 0.1 # error relativo de demora, en omega_d, respecto al centro de
 
 # Aproximación
         
-# aprox_name = 'Butterworth'
-aprox_name = 'Chebyshev1' # equiripple banda de paso
+aprox_name = 'Butterworth'
+# aprox_name = 'Chebyshev1' # equiripple banda de paso
 # aprox_name = 'Chebyshev2' # equiripple banda de rechazo
 # aprox_name = 'Bessel'
 #aprox_name = 'Cauer' # o elíptico
