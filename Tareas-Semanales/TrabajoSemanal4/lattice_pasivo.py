@@ -14,7 +14,7 @@ import numpy as np
 
 z = [7.59]
 p = [-7.59]
-k = 1
+k = 0.5
 
 this_lti = sig.ZerosPolesGain(z, p, k).to_tf()
 
