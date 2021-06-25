@@ -8,8 +8,10 @@ El objetivo será ir recopilando las tareas, entregas y trabajos prácticos de f
 
 ## Ejercicios Semanales 🚀
 1. [Semana Nº1](https://nbviewer.jupyter.org/urls/gitlab.frba.utn.edu.ar/tbavassopiizzi/tcii/-/raw/master/Tareas-Semanales/TrabajoSemanal1/TrabajoSemanal1.ipynb)
-
-
+2. [Semana Nº2](https://nbviewer.jupyter.org/urls/gitlab.frba.utn.edu.ar/tbavassopiizzi/tcii/-/raw/master/Tareas-Semanales/TrabajoSemanal2/TrabajoSemanal2.ipynb)
+3. [Semana Nº3](https://nbviewer.jupyter.org/urls/gitlab.frba.utn.edu.ar/tbavassopiizzi/tcii/-/raw/master/Tareas-Semanales/TrabajoSemanal3/TrabajoSemanal3.ipynb)
+4. [Semana Nº4](https://nbviewer.jupyter.org/urls/gitlab.frba.utn.edu.ar/tbavassopiizzi/tcii/-/raw/master/Tareas-Semanales/TrabajoSemanal4/TrabajoSemanal4.ipynb)
+5. [Semana Nº5](https://nbviewer.jupyter.org/urls/gitlab.frba.utn.edu.ar/tbavassopiizzi/tcii/-/raw/master/Tareas-Semanales/TrabajoSemanal5/TrabajoSemanal5.ipynb)
 
 ## Autor ✒️
 * **Tobias Bavasso Piizzi** - *Trabajo Inicial* - [tbavassopiizzi](https://gitlab.frba.utn.edu.ar/tbavassopiizzi)
