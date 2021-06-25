@@ -1,0 +1,17 @@
+* C:\users\tobias\Desktop\GitLab\tcii\Tareas-Semanales\TrabajoSemanal5\fhp.asc
+XU1 N003 N005 N004 opamp Aol=100K GBW=10Meg
+XU2 N003 N001 N002 opamp Aol=100K GBW=10Meg
+R1 N001 0 1k
+R2 N004 N001 888.88
+R3 Vi N005 1.125k
+R4 N004 N003 1k
+R5 N003 N002 1k
+C1 N001 Vi 1591.54n
+C2 N002 N005 1591.54n
+C3 Vo N002 1591.54n
+R6 Vo 0 1k
+V1 Vi 0 AC 1
+.lib opamp.sub
+.ac dec 1024 1 1k
+.backanno
+.end
