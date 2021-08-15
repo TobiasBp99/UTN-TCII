@@ -1,4 +1,5 @@
 #ignore Directories
+/Examples
 
 
 
@@ -6,4 +7,6 @@
 #ignore files
 *.ipynb_checkpoints
 *.pyc
+*.log
+*.raw
 
